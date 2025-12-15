@@ -56,8 +56,8 @@ public class PackageInstallerWindow : EditorWindow
         { "Kinematic Character Controller", "https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131" },
         {"DoTween", "https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?srsltid=AfmBOopsF03XsIfq9easdkzo3Wd6JPv3Iqs_SV2WN9sA4rHRQgeHB023" },
         {"Extenject","https://assetstore.unity.com/packages/tools/utilities/extenject-dependency-injection-ioc-157735?srsltid=AfmBOorIQPKpzpHQijGbLKpbKOCa2CWt3k1ia_G6OlTd0ggwvb-W1PlA" },
-        {"UnitRX", "https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?srsltid=AfmBOorWbajdWjUxIzrnEoSI1OioOongAO-3eYw9xxj_xJs7pE2MxLYy" }
-
+        {"UnitRX", "https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276?srsltid=AfmBOorWbajdWjUxIzrnEoSI1OioOongAO-3eYw9xxj_xJs7pE2MxLYy" },
+        {"Cartoon particles fx", "https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565"}
     };
 
 
