@@ -20,8 +20,7 @@ jobs:
         with:
           node-version: '20'
 
-      # 3. Validação básica do package.json
-      #    Isso evita publicação corrompida (nome errado, versão faltando, etc.)
+ 
       - name: Validate package.json
         run: |
           if [ ! -f package.json ]; then
@@ -37,7 +36,6 @@ jobs:
 
           echo "package.json validado com sucesso."
 
-      # 4. Publicação pelo OpenUPM (ação oficial)
       - name: Publish to OpenUPM
         uses: openupm/openupm-publish-action@v1
         with:
