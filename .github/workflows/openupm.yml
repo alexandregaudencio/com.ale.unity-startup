@@ -1,5 +1,4 @@
 name: Publish to OpenUPM
-
 on:
   push:
     tags:
